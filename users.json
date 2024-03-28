@@ -4,22 +4,22 @@
   "data": [
     {
       "id": 1,
-      "firstName": "Emma",
-      "lastName": "Johnson",
-      "maidenName": "",
-      "dateOfBirth": "1992-03-12",
-      "gender": "Female",
-      "email": "emma.johnson@example.com",
-      "phone": "+123456789012",
-      "username": "emma_johnson",
+      "firstName": "Aamer",
+      "lastName": "Shahzad",
+      "maidenName": "Awan",
+      "dateOfBirth": "1991-08-14",
+      "gender": "Male",
+      "email": "talentedaamer@gmail.com",
+      "phone": "+92-123-1212-123",
+      "username": "aamers",
       "password": "P@ssw0rd!",
       "address": {
-        "street": "123 Elm St",
-        "city": "Springfield",
-        "postalCode": "12345",
-        "state": "IL"
+        "street": "Phase 4, Civic Center, Bahria Town",
+        "city": "Islamabad",
+        "postalCode": "44000",
+        "state": "Islamabad"
       },
-      "company": "Tech Solutions Inc"
+      "company": "ID-ware PVT LTD"
     },
     {
       "id": 2,
