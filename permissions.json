@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "code": 200,
+  "data": [
+    {
+      "permission": "read",
+      "description": "Read access"
+    },
+    {
+      "permission": "write",
+      "description": "Write access"
+    },
+    {
+      "permission": "delete",
+      "description": "Delete access"
+    },
+    {
+      "permission": "create",
+      "description": "Create access"
+    },
+    {
+      "permission": "update",
+      "description": "Update access"
+    },
+    {
+      "permission": "admin",
+      "description": "Admin access"
+    },
+    {
+      "permission": "moderate",
+      "description": "Moderate access"
+    },
+    {
+      "permission": "publish",
+      "description": "Publish access"
+    },
+    {
+      "permission": "subscribe",
+      "description": "Subscribe access"
+    },
+    {
+      "permission": "comment",
+      "description": "Comment access"
+    }
+  ]
+}
