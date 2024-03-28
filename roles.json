@@ -1,0 +1,30 @@
+{
+  "status": "success",
+  "code": 200,
+  "data": [
+    {
+      "role": "admin",
+      "description": "Administrator"
+    },
+    {
+      "role": "user",
+      "description": "Regular User"
+    },
+    {
+      "role": "moderator",
+      "description": "Moderator"
+    },
+    {
+      "role": "editor",
+      "description": "Editor"
+    },
+    {
+      "role": "subscriber",
+      "description": "Subscriber"
+    },
+    {
+      "role": "guest",
+      "description": "Guest User"
+    }
+  ]
+}
